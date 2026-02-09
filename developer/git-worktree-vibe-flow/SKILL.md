@@ -1,5 +1,7 @@
 ---
 name: git-worktree-vibe-flow
+slug: git-worktree-vibe-flow
+version: 1.0.0
 description: Mandatory worktree development SOP (GitHub PR). Always follow for branch/worktree/commit/push/PR lifecycle and parallel vibe coding.
 ---
 
